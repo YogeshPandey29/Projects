@@ -1,0 +1,1 @@
+The file with the name "file_contents.txt" is a text fioe containing random textual information collected from any website or book. The goal of the project is to take this file as an input and process the textual information and form a WORD CLOUD out of the information collected. While processing the text data, all the punctuation marks and uninteresting words should be ignored.
